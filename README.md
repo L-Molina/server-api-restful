@@ -1,4 +1,4 @@
-#Server API RESTful
+# Server API RESTful
 
 GET '/api/productos' => devuelve todos los productos.
 GET '/api/productos/:id' => devuelve un producto según su id.
