@@ -1,5 +1,8 @@
 # Server API RESTful
 
+cd src
+nodemon server.js
+
 - GET '/api/productos' => devuelve todos los productos.
 - GET '/api/productos/:id' => devuelve un producto según su id.
 - POST '/api/productos' => recibe y agrega un producto, y lo devuelve con su id asignado.
